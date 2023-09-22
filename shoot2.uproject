@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{C213485A-4E4B-47BD-4731-CDA8F04A8372}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "shoot2",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
